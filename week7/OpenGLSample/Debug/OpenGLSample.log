@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(299,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(419,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(420,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(424,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(425,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(427,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(428,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fish\Desktop\week7\OpenGLSample\Source.cpp(438,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\Fish\Desktop\week7\Debug\OpenGLSample.exe
